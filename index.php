@@ -1,6 +1,6 @@
 		
 <?php
-require('home-mulhertech.php');
+require_once('home-mulhertech.php');
 ?>
 
 
