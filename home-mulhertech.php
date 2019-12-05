@@ -1,15 +1,15 @@
-<!-- amgauna.com.br -->
+<!-- www.mulhertech.com.br -->
 
 <!DOCTYPE html>
 
-<html http-equiv="Content-Type" content="text/html; charset=ISO-8859-1;">  <!--  ISO-8859-1  -->
+<html lang="pt-br">  
 
-<head>
-        
+<head>        
 	<title> Home | MulherTech </title>
 		
         <meta name="author" content="Ana Mercedes Gauna"/>
 	<meta name="date" content="12/08/2018"/>
+	
 	<meta name="description" content=" &#10024; &#10024; &#10024; MulherTech Management &#10024; &#10024; &#10024;
 		                        Porque o lugar da mulher, não é na cozinha, é trabalhando na internet.  ;-)"/>	
 			  
@@ -17,8 +17,10 @@
   
         <meta charset="UTF-8" language="pt-br">   <!-- Charset = UTF-8 ou ISO-8859-1  -->
 
-        <meta name="tech" content="HTML, CSS, JavaScript, Bootstrarp, PHP, JQuery, Ajax, MySQL, SQL, Java">									   
-		<meta name="google-site-verification" content="mulhertech.com.br">
+        <meta name="technologies" content="HTML, CSS, JavaScript, Bootstrarp, PHP, JQuery, Ajax, MySQL, SQL, Java">
+	
+	<!--  <meta name="google-site-verification" content="mulhertech.com.br">  -->
+	
         <basefont size="12" color="black">
 		
         <!--  redirecionamento de página no dominio  (propriedades padrão) -->
